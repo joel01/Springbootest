@@ -1,4 +1,4 @@
-package com.Joel.Springbootest;
+package com.joel.springbootest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
